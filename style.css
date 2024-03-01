@@ -1,0 +1,25 @@
+{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:'Poppins',sans-serif ;
+}
+.cabecalho{
+    blakground: color #3b0050;
+    color:rgb(red, green, blue, yellow, purple )
+    display:flex;
+    justufi-content:space-around;
+    aling-itens:center;
+    padding:24px 0;
+}
+
+.cabecalho-imagem{
+    width:10%
+}
+
+.cabecalho_lista_iten{
+    display:inline block;
+    margin:0 16px;
+    font-size:16px;
+}
