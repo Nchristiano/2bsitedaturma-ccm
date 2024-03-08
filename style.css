@@ -6,11 +6,11 @@ body{
     font-family:'Poppins',sans-serif ;
 }
 .cabecalho{
-    blakground: color #3b0050;
-    color:rgb(red, green, blue, yellow, purple )
+    blakground: color #ff00dd;
+    color:pink
     display:flex;
     justufi-content:space-around;
-    aling-itens:center;
+    aling-itens: center;
     padding:24px 0;
 }
 
@@ -20,6 +20,17 @@ body{
 
 .cabecalho_lista_iten{
     display:inline block;
-    margin:0 16px;
-    font-size:16px;
+    margin:150px;
+    font-size:100px;
+}
+.sobre_nos{
+    background-image: linear-gradient(#bc06ff, #bd06ff85);
+    color: #ff0606;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+
+}
+.sobre_nos-imagem {
+    width: 25;
 }
