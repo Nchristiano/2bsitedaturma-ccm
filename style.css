@@ -1,4 +1,4 @@
-{
+*{
     margin:0;
     padding:0;
 }
@@ -7,21 +7,21 @@ body{
 }
 .cabecalho{
     background-color: #ff00dd;
-    color: white
+    color:white ;
     display:flex;
-    justufi-content:space-around;
-    aling-itens: center;
-    padding:24px 0;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
-    width:10%
+    width:10;
 }
 
 .cabecalho_lista_iten{
     display:inline block;
-    margin: 100px;
-    font-size:100px;
+    margin: 0 100px;
+    font-size: 16px;
 }
 .sobre_nos{
     background-image: linear-gradient(#bc06ff, #bd06ff85);
