@@ -7,7 +7,7 @@ body{
 }
 .cabecalho{
     blakground: color #ff00dd;
-    color:pink
+    color:rgb(250, 250, 250)
     display:flex;
     justufi-content:space-around;
     aling-itens: center;
