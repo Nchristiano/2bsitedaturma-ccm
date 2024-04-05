@@ -11,7 +11,7 @@ body{
     display:flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 25px 0;
 }
 
 .cabecalho-imagem{
@@ -24,11 +24,11 @@ body{
     font-size: 16px;
 }
 .sobre_nos{
-    background-image: linear-gradient(#bc06ff, #bd06ff85);
+    background-image: linear-gradient(#ff06ff, #bd06ff85);
     color: #ffffff;
     display:flex;
     justify-content: center;
-    padding:24px;
+    padding:25px;
 
 }
 .sobre_nos-imagem {
