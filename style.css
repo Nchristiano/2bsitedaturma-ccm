@@ -64,6 +64,9 @@ body {
 /* secao lojas*/
 .lojas{
     background-color: #f100f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .lojas-titulo{
@@ -75,7 +78,7 @@ font-size: 45px;
 
 .lojas-todosestados-div{
     display: grid;
-    grid-template-columns: 90% 90% 90% 90%;
+    grid-template-columns: 25% 25% 25% 25%;
     font-size: 30px;
     text-align: center;
     text-decoration: #FFFFFF;
