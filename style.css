@@ -76,20 +76,14 @@ padding: 30px;
 font-size: 45px;
 }
 
-.lojas-todosestados-div{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    font-size: 30px;
-    text-align: center;
-    text-decoration: #FFFFFF;
-}
+
 .loja-estado{
     text-align: center;
    
 }
 
 .lojas-estados-img{
-    width: 150px;
+    width: 300px;
 
 }
 .lojas-estado-nome{
