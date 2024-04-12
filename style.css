@@ -10,7 +10,7 @@ body {
 /* secao cabecalho*/
 .cabecalho {
     background-color: #bb00ff;
-    color: white;
+    color: rgb(124, 124, 124);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -64,7 +64,7 @@ body {
 /* secao lojas*/
 .lojas{
     background-image: linear-gradient(#d979ff1f,#bb00ff);
-    color:#FFFFFF;
+    color:#888888;
     ;
 }
 
