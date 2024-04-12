@@ -63,10 +63,9 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-color: #f100f1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-image: linear-gradient(#bb00ff,#d96fff1f);
+    color:#FFFFFF;
+    ;
 }
 
 .lojas-titulo{
@@ -79,7 +78,10 @@ font-size: 45px;
 
 .loja-estado{
     text-align: center;
-   
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border-bottom: 2px solid #ffff00b2
 }
 
 .lojas-estados-img{
