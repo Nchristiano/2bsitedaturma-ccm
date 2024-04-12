@@ -76,6 +76,8 @@ font-size: 45px;
 .lojas-todosestados-div{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+    font-size: 20px;
+    text-align: center;
 }
 .loja-estado{
     text-align: center;
