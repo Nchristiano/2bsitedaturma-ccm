@@ -10,7 +10,7 @@ body {
 /* secao cabecalho*/
 .cabecalho {
     background-color: #bb00ff;
-    color: rgb(124, 124, 124);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -36,8 +36,8 @@ body {
 }
 /* secao sobre nos*/
 .sobre_nos{
-    background-image: linear-gradient(#bb00ff,#d96fff1f);
-    color:#868686;
+    background-image: linear-gradient(#bb00ff,#f800cf);
+    color:#fffefe;
     display: flex;
     justify-content: center;
     padding: 50px;
@@ -63,13 +63,13 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-image: linear-gradient(#d979ff1f,#bb00ff);
-    color:#888888;
+    background-image: linear-gradient(#ff00ff,#bb00ff);
+    color:#fff8f8;
     ;
 }
 
 .lojas-titulo{
-color: #8d8989;
+color: #ffffff;
 text-align: center;
 padding: 30px;
 font-size: 45px;
@@ -91,12 +91,12 @@ font-size: 45px;
 }
 
 .lojas_estados_texto{
-    font-size: 20px;
+    font-size: 28px;
 }
 .lojas-estado-nome{
     font-weight: 100;
     text-decoration: underline;
-    color: #838282;
+    color: #ffffff;
 }
 .lojas-estado-nome:hover{
     font-weight: 100;
