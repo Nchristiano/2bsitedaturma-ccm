@@ -9,7 +9,7 @@ body {
 
 /* secao cabecalho*/
 .cabecalho {
-    background-color: #bb00ff;
+    background-color: #ff00dd;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -63,7 +63,7 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-image: linear-gradient(#ff00ff,#bb00ff);
+    background-image: linear-gradient(#ff00c8,#bb00ff);
     color:#fff8f8;
     ;
 }
