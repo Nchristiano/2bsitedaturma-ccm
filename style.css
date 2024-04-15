@@ -37,7 +37,7 @@ body {
 /* secao sobre nos*/
 .sobre_nos{
     background-image: linear-gradient(#bb00ff,#d96fff1f);
-    color:#FFFFFF;
+    color:#868686;
     display: flex;
     justify-content: center;
     padding: 50px;
@@ -87,6 +87,11 @@ font-size: 45px;
 .lojas-estados-img{
     width: 665px;
 
+    
+}
+
+.lojas_estados_texto{
+    font-size: 20px;
 }
 .lojas-estado-nome{
     font-weight: 100;
