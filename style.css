@@ -37,7 +37,7 @@ body {
 /* secao sobre nos*/
 .sobre_nos{
     background-image: linear-gradient(#bb00ff,#f800cf);
-    color:#f800cf;
+    color:#ffffff;
     display: flex;
     justify-content: center;
     padding: 50px;
@@ -64,7 +64,7 @@ body {
 /* secao lojas*/
 .lojas{
     background-image: linear-gradient(#f800cf,#bb00ff);
-    color:#f800cf;
+    color:#f1f1f1;
     ;
 }
 
@@ -101,7 +101,7 @@ font-size: 45px;
 .lojas-estado-nome:hover{
     font-weight: 100;
     text-decoration: underline;
-    color: rgb(255, 0, 191);
+    color: rgb(255, 255, 255);
 }
 .lojas-estado-icone{
     width: 35px;
