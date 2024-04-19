@@ -15,7 +15,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    border-bottom: 2px solid #ffff00b2;
+    border-bottom: 2px solid #ff00d4b2;
 }
 
 .cabecalho-imagem{
@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     padding: 50px;
-    border-bottom: 2px solid #ffff00b2;
+    border-bottom: 2px solid #ff00ddb2;
 }
 
 .sobre_nos-div-conteudo{
@@ -116,7 +116,7 @@ font-size: 45px;
     background-color: rgb(0, 0, 0);
     text-align: center;
     padding: 50px;
-    border-top: 2px solid #ffff00b2;
+    border-top: 2px solid #ff00d4b2;
 }
 
 .rodape-titulo{
