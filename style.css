@@ -9,7 +9,7 @@ body {
 
 /* secao cabecalho*/
 .cabecalho {
-    background-color: #c300ff;
+    background-color: #bb00ff;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
